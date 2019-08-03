@@ -1,0 +1,170 @@
+#mySidenav a {
+  position:fixed;
+  left: -70px;
+  transition: 0.4s;
+  width:120px;
+  height:80px;
+  text-align:left;
+  font-size: 15px;
+  border-radius: 0 20px 10px 10px;
+  bottom:500px;      
+  font-family:AR DESTINE;
+  color:goldenrod;
+        
+
+}
+
+#mySidenav a:hover {
+  left: 0;
+}
+
+#Home {
+  top: 60px;
+  background-color: #4CAF50;
+  color:goldenrod;
+}
+
+#About {
+  top: 120px;
+  background-color: #2196F3;
+  color:goldenrod;
+}
+
+#Gallery{
+  top: 180px;
+  background-color: #f44336;
+  color:goldenrod;
+  
+}
+  #Contact{
+  top: 240px;
+  background-color: #555;
+  color:goldenrod;
+}
+.size{
+    width:450px;
+    height:350px;
+    float:right;
+    padding:0px;
+   
+}
+h1{
+    text-align: center;
+    color:goldenrod;
+    font-family:AR DESTINE;
+}
+h2{
+    font-family:AR DESTINE;
+    font-size: 30px;
+    color:goldenrod;
+   text-align:right;           
+   padding-right: 10px;
+ }
+ .bb{
+     color:blue;
+ }
+ .head{
+  position: fixed;
+  top: 0;
+  right:0;
+  width:100%;
+  background-color:grey;
+         }
+
+
+  #section1 {padding:50px;height:500px;width:100%;background-image:url("vv.jpg");}
+  #section2 {padding:70px;height:500px;width:100%;background-image:url(o.jpg);}
+  #section3 {padding:0px;height:500px;width:100%;background-image:url(o.jpg);}
+  #section4 {padding:0px;height:500px;width:100%;background-image:url(vv.jpg);}
+ .bg{
+  /* The image used */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+  
+  /* Needed to position the navbar */
+  position: relative;
+ 
+}
+#cap{
+font-family:AR DESTINE;
+font-size:20px;
+alignment-adjust: ideographic;
+position: absolute;
+top:100px;
+left:80px;
+color:goldenrod;
+}
+body{
+      margin:0px;
+      padding:0px;
+      font-family: verdana;
+      
+        }
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:grey;
+  text-align:center;
+  font-family:verdana;
+  font-size: 15px;
+  color:goldenrod;
+  height:30px;
+         
+} 
+  img{
+        height:15px;
+        width:10px;
+    }
+    
+    
+    div.gallery {
+    border: 1px solid #ccc;
+     padding-right: 10px;
+}
+.gallery {
+  margin: 3px;
+  border: 1px solid #ccc;
+  float:right;
+  width: 175px;
+
+ 
+}
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 15px;
+  text-align: center;
+}
+.my-form {
+        color: #305896;
+        float:left;
+        height:400px;
+        width:400px;
+        padding-left:70px;
+    }
+    .my-form .btn-default {
+        background-color: #305896;
+        color: #fff;
+        border-radius: 0;
+    }
+    .my-form .btn-default:hover {
+        background-color: #4498C6;
+        color: #fff;
+    }
+    .my-form .form-control {
+        border-radius: 0;
+    }
+  
