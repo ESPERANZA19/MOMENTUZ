@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Momentz Photography</title>
@@ -123,9 +122,7 @@
         </div>
         </div>
     </div>
-</div>   <?php
-        // put your code here
-        ?>
+</div>  
         <div id="footer"> &nbsp;&nbsp;For inquiry &nbsp;&nbsp;&nbsp; <img src="bb.jpg">info@momentuz.com &nbsp;&nbsp;&nbsp;&nbsp; <img src='aa.png'>042555654&nbsp;&nbsp;&nbsp;</div>
     </body>
 </html>
