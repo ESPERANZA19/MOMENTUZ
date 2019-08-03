@@ -30,53 +30,53 @@
 
             </p><p>Momentus studio has the experience of catering to, IT, Healthcare, Hospitality, Education, Manufacturing and more industries Our team of passionate, creative photographers and videographers share the desire to make every experience with Momentuz Studio the best it can possibly be.  We welcome you to visit us and experience our services.</P></div>
         <div id="section3" class="pa"><h1> GALLERY </h1><div class="gallery">
-  <a target="_blank" href="pp.jpg">
+  <a target="_blank" href="aa.jpg">
     <img src="gg.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="oo.jpg">
+  <a target="_blank" href="888.jpg">
     <img src="yy.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 <div class="gallery">
-  <a target="_blank" href="pp.jpg">
-    <img src="gg.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="aa.jpg">
+    <img src="888.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="oo.jpg">
+  <a target="_blank" href="888.jpg">
     <img src="yy.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 <div class="gallery">
-  <a target="_blank" href="pp.jpg">
-    <img src="gg.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="aa.jpg">
+    <img src="aa.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="oo.jpg">
-    <img src="yy.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="888.jpg">
+    <img src="aa.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 <div class="gallery">
-  <a target="_blank" href="pp.jpg">
-    <img src="gg.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="aa.jpg">
+    <img src="aa.jpg" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="oo.jpg">
+  <a target="_blank" href="888.jpg">
     <img src="yy.jpg" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
