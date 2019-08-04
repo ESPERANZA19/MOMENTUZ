@@ -101,7 +101,7 @@ body{
       margin:0px;
       padding:0px;
       font-family: verdana;
-      width:100%.;
+     
         }
 
 #footer {
@@ -125,7 +125,7 @@ body{
     
     div.gallery {
     border: 1px solid #ccc;
-     padding-right: 10px;
+    padding-right: 10px;
 }
 .gallery {
   margin: 3px;
