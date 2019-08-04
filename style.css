@@ -73,8 +73,8 @@ h2{
 
 
   #section1 {padding:50px;height:500px;width:100%;background-image:url(vv.jpg);}
-  #section2 {padding:70px;height:500px;width:100%;background-image:url(.jpg);}
-  #section3 {padding:0px;height:500px;width:100%;background-image:url(.jpg);}
+  #section2 {padding:70px;height:500px;width:100%;}
+  #section3 {padding:0px;height:500px;width:100%;}
   #section4 {padding:0px;height:500px;width:100%;background-image:url(vv.jpg);}
  .bg{
   /* The image used */
